@@ -254,12 +254,7 @@ section{
 
 
 /* Search */
-.search {
-  background-image: url('../images/world-map.png');
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: top;
-}
+ 
 .grid-container {
     display: grid;
     gap: 30px;
