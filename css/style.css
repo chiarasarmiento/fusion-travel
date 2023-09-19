@@ -4,13 +4,16 @@
     font-family: 'Poppins', sans-serif;
     color: #4a4a4a;
     box-sizing: border-box;
+    font-size: 100%;
+    -webkit-text-size-adjust: 100%;
 }
-html, body{
+html{
     overflow-x: hidden; 
 }
 h2, h3, h4 {
     color: #E25E3E;
   }
+
 .fa{
     color:#E25E3E;
     font-size: 30px;
